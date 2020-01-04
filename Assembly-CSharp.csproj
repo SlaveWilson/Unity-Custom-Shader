@@ -64,7 +64,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\HologramGlitcher.cs" />
     <None Include="Assets\Shaders\Outline.shader" />
-    <None Include="Assets\Shaders\Na.shader" />
+    <None Include="Assets\Shaders\Rasengan.shader" />
     <None Include="Assets\Shaders\Hologram.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/NgFamily/Unity Projects/Shader Testing/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
